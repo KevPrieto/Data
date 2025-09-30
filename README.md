@@ -1,60 +1,61 @@
-# 📊 Power BI Dashboard – Métricas Avanzadas en DAX
+# 📊 Power BI Dashboard – Advanced DAX Metrics
 
-Este repositorio contiene un **dashboard de Power BI** y un archivo `.pbix` desarrollado como parte de un curso de **DAX Avanzado en Udemy**.  
-El objetivo principal fue practicar técnicas avanzadas de modelado y cálculo en Power BI para el análisis de métricas complejas.
-
----
-
-## 🚀 Contenido del repositorio
-- `PROJECT_ADVANCEDDAX_KEVINP.pbix` → archivo principal de Power BI con todas las medidas y visualizaciones.
-- `PROJECT_DASHBOARD_KEVINP.pdf` → El dashboard en pdf
-- `README.md` → documentación del proyecto.
+This repository contains a **Power BI dashboard** and a `.pbix` file developed as part of an **Advanced DAX course on Udemy**.  
+The main goal of this project was to practice advanced modeling and calculation techniques in Power BI for analyzing complex metrics.
 
 ---
 
-## 🧮 Principales Métricas y Cálculos en DAX
-En este proyecto se implementaron varias técnicas de **DAX Avanzado**, entre ellas:
-
-- Creación de **medidas dinámicas** con `SWITCH` y `SELECTEDVALUE`.
-- Cálculo de **métricas acumuladas (YTD, MTD, QTD)**.
-- Implementación de **tendencias comparativas año vs. año**.
-- Uso de **CALCULATE + FILTER** para escenarios específicos.
-- Optimización de relaciones con **modelado de tablas**.
-- KPIs personalizados para toma de decisiones.
+## 🚀 Repository Contents
+- `PROJECT_ADVANCEDDAX_KEVINP.pbix` → Main Power BI file with all measures and visualizations.  
+- `PROJECT_DASHBOARD_KEVINP.pdf` → Dashboard exported as PDF.  
+- `README.md` → Project documentation.
 
 ---
 
-## 📈 Dashboard
-El dashboard permite analizar:
-- Evolución temporal de indicadores clave.
-- Comparación entre períodos (año vs. año, mes vs. mes).
-- Segmentación dinámica por filtros.
-- Indicadores acumulados y proyecciones.
+## 🧮 Key Metrics and DAX Calculations
+In this project, several **advanced DAX techniques** were implemented, including:
 
-*(Puedes abrir el archivo `.pbix` directamente en Power BI Desktop para explorar el modelo y las métricas.)*
-
----
-
-## 🛠️ Tecnologías utilizadas
-- **Power BI Desktop**
-- **Lenguaje DAX**
-- **Excel / CSV de práctica** como fuente de datos
+- Creation of **dynamic measures** using `SWITCH` and `SELECTEDVALUE`.  
+- Calculation of **accumulated metrics** (YTD, MTD, QTD).  
+- Implementation of **year-over-year trend comparisons**.  
+- Use of `CALCULATE` + `FILTER` for specific scenarios.  
+- Optimization of relationships with **table modeling**.  
+- Custom **KPIs** for decision-making.
 
 ---
 
-## 👨‍💻 Sobre mí
-Actualmente me desarrollo como **Business Operations Analyst**, con experiencia en:
-- **Automatización de procesos** (Excel avanzado, macros, análisis de datos).
-- **Análisis de datos financieros** en el sector bancario.
-- Formación en **Desarrollo de Aplicaciones Móviles (DAM)** y **Ciberseguridad**.
+## 📈 Dashboard Overview
+The dashboard allows you to analyze:
 
-Este repositorio forma parte de mi **portfolio** en el área de analítica de datos y Business Intelligence.
+- Temporal evolution of key indicators.  
+- Period-over-period comparisons (year vs. year, month vs. month).  
+- Dynamic segmentation through filters.  
+- Accumulated indicators and projections.
+
+*(You can open the `.pbix` file directly in Power BI Desktop to explore the model and measures.)*
+
+---
+
+## 🛠️ Technologies Used
+- **Power BI Desktop**  
+- **DAX Language**  
+- **Excel / CSV** as practice data sources
 
 ---
 
-## 📬 Contacto
-Si quieres intercambiar ideas sobre analítica o BI:
-- 📧 kgps1003@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kevin-prieto-dataanalyst
+## 👨‍💻 About Me
+I currently work as a **Business Operations Analyst** with experience in:
+
+- **Process automation** (advanced Excel, macros, data analysis).  
+- **Financial data analysis** in the banking sector.  
+- Training in **Mobile Application Development (DAM)** and **Cybersecurity**.
+
+This repository is part of my **portfolio in data analytics and Business Intelligence**.
 
 ---
+
+## 📬 Contact
+If you want to exchange ideas about analytics or BI:
+
+- 📧 kgps1003@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kevin-prieto-dataanalyst)
